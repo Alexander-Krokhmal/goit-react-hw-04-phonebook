@@ -1,0 +1,11 @@
+.section{
+    padding: 16px;
+    text-align: left;
+}
+
+.title{
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+}
